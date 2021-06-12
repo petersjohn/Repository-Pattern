@@ -1,0 +1,10 @@
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\Repository_Pattern\Repository_Pattern\bin\Debug\Repository_Pattern.exe.config
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\Repository_Pattern\Repository_Pattern\bin\Debug\Repository_Pattern.exe
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\Repository_Pattern\Repository_Pattern\bin\Debug\Repository_Pattern.pdb
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\Repository_Pattern\Repository_Pattern\bin\Debug\RepositoryPattern_Repository.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\Repository_Pattern\Repository_Pattern\bin\Debug\RepositoryPattern_Repository.pdb
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\Repository_Pattern\Repository_Pattern\obj\Debug\Repository_Pattern_Console.csproj.AssemblyReference.cache
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\Repository_Pattern\Repository_Pattern\obj\Debug\Repository_Pattern_Console.csproj.CoreCompileInputs.cache
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\Repository_Pattern\Repository_Pattern\obj\Debug\Repository_Pattern_Console.csproj.CopyComplete
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\Repository_Pattern\Repository_Pattern\obj\Debug\Repository_Pattern.exe
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\Repository_Pattern\Repository_Pattern\obj\Debug\Repository_Pattern.pdb

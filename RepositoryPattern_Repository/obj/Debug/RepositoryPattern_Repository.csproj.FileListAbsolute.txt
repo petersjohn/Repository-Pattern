@@ -1,0 +1,6 @@
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\Repository_Pattern\RepositoryPattern_Repository\bin\Debug\RepositoryPattern_Repository.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\Repository_Pattern\RepositoryPattern_Repository\bin\Debug\RepositoryPattern_Repository.pdb
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\Repository_Pattern\RepositoryPattern_Repository\obj\Debug\RepositoryPattern_Repository.csproj.AssemblyReference.cache
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\Repository_Pattern\RepositoryPattern_Repository\obj\Debug\RepositoryPattern_Repository.csproj.CoreCompileInputs.cache
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\Repository_Pattern\RepositoryPattern_Repository\obj\Debug\RepositoryPattern_Repository.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\DotNetProjects\Repository_Pattern\RepositoryPattern_Repository\obj\Debug\RepositoryPattern_Repository.pdb
